@@ -1,0 +1,20 @@
+[
+	{
+		"year" : 2018 ,
+		"title" : "My Hero Academia: Two Heroes" ,
+		"info" : {
+      		"directors" :"Kenji Nagasaki",
+      		"release_date" : "25 September 2018",
+      		"rating" : 7.6,
+      		"genres" : [
+      			"Animation",
+      			"Action",
+      			"Adventure",
+      			"Comedy",
+      			"Family",
+      			"Fantasy",
+      			"Sci-Fi"
+      		]
+		}
+	}
+]
